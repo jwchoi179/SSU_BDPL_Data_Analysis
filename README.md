@@ -4,7 +4,5 @@
 
 |  이름  |          이메일          |
 | :----: | :----------------------: |
-| 양윤수 | diddbstn020802@naver.com |
 | 정재황 |    king6996@daum.net     |
 | 최지웅 | jwchoi179@soongsil.ac.kr |
-
